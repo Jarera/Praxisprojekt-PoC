@@ -1,0 +1,4 @@
+﻿<https://www.duden.de/rechtschreibung/Mord> <https://www.duden.de/rechtschreibung/in> <http://de.dbpedia.org/resource/Berlin> .
+<https://www.duden.de/rechtschreibung/Mann> <https://www.duden.de/rechtschreibung/erstechen> <https://www.duden.de/rechtschreibung/Tochter> .
+<https://www.duden.de/rechtschreibung/Mann> <https://www.duden.de/rechtschreibung/haben> <https://www.duden.de/rechtschreibung/Krankheit> .
+<http://de.dbpedia.org/resource/Polizei> <https://www.duden.de/rechtschreibung/untersuchen> <https://www.duden.de/rechtschreibung/Mord> .
